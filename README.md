@@ -4,13 +4,13 @@ Welcome to the **Discord Clone** project! This project aims to replicate the loo
 
 ## 📋 Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
+- [Info](https://degrelion.github.io/epipb-conv-info/)
+- [Annonce](https://degrelion.github.io/epipb-conv-annonce/)
+- [General](https://degrelion.github.io/epipb-conv-general/)
+- [Projets](https://degrelion.github.io/epipb-conv-projets/)
+- [📛🔞📛](https://degrelion.github.io/epipb-conv-adult/)
+- [La Poubelle](https://degrelion.github.io/epipb-conv-poubelle/)
+- [Menu Discord](https://degrelion.github.io/epipb-conv)
 
 ## 🌐 Demo
 
